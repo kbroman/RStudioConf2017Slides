@@ -18,3 +18,8 @@ Pull requests welcome! Or add an issue, or tweet
 
 - [Bhaskar Karambelkar](http://www.karambelkar.info), [@bhaskar_vk](https://twitter.com/bhaskar_vk),
 [Web mapping in R using Leaflet](https://bhaskarvk.github.io/leaflet-talk-rstudioconf-2017/RstudioConf2017.html#1)
+
+- [Chester Ismay](http://ismayc.github.io),
+  [@old_man_chester](https://twitter.com/old_man_chester),
+  [Teaching introductory statistics using the tidyverse via bookdown](http://bit.ly/rstudioconf17)
+  \[[Source](https://github.com/ismayc/rstudioconf)\]
