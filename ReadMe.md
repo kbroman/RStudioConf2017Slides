@@ -26,3 +26,5 @@ Pull requests welcome! Or add an issue, or tweet
   [@old_man_chester](https://twitter.com/old_man_chester),
   [Teaching introductory statistics using the tidyverse via bookdown](http://bit.ly/rstudioconf17)
   \[[Source](https://github.com/ismayc/rstudioconf)\]
+
+- [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
