@@ -33,3 +33,9 @@ Pull requests welcome! Or add an issue, or tweet
   [TrelliscopeJS](http://slides.com/hafen/deck-6#/)
 
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
+
+---
+
+### Things of interest
+
+- [bsplus](http://ijlyttle.github.io/bsplus/) - use BootstrapJS via R
