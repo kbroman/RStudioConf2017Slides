@@ -48,3 +48,6 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [corrr](https://github.com/drsimonj/corrr) - exploring correlations
   in R
+
+- [ggedit](https://github.com/metrumresearchgroup/ggedit) -
+  interactively edit ggplot layer aesthetics and them definitions
