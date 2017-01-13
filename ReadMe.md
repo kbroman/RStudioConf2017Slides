@@ -27,4 +27,7 @@ Pull requests welcome! Or add an issue, or tweet
   [Teaching introductory statistics using the tidyverse via bookdown](http://bit.ly/rstudioconf17)
   \[[Source](https://github.com/ismayc/rstudioconf)\]
 
+- [Ryan Hafen](http://ryanhafen.com), [@hafenstats](https://twitter.com/hafenstats),
+  [TrellisscopeJS](http://slides.com/hafen/deck-6#/)
+
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
