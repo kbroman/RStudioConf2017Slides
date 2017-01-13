@@ -26,7 +26,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Chester Ismay](http://ismayc.github.io),
   [@old_man_chester](https://twitter.com/old_man_chester),
   [Teaching introductory statistics using the tidyverse via bookdown](http://bit.ly/rstudioconf17)
-  \[[Source](https://github.com/ismayc/rstudioconf); also see <http://moderndive.com>\]
+  \[[Source](https://github.com/ismayc/rstudioconf)\] (also see <http://moderndive.com>)
 
 
 - [Ryan Hafen](http://ryanhafen.com), [@hafenstats](https://twitter.com/hafenstats),
