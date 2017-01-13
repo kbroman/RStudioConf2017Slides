@@ -9,6 +9,8 @@ Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
 [Karl Broman](http://kbroman.org).
 
+Also see [Stephen Turner's list](https://github.com/stephenturner/rstudioconf_purrr_listcols).
+
 ---
 
 ## Friday 2017-01-13
