@@ -45,3 +45,6 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 - [bsplus](http://ijlyttle.github.io/bsplus/) - use BootstrapJS via R
 
 - [hunspell](https://github.com/ropensci/hunspell) - spell-checking package
+
+- [corrr](https://github.com/drsimonj/corrr) - exploring correlations
+  in R
