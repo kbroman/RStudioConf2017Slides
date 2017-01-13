@@ -13,7 +13,7 @@ Pull requests welcome! Or add an issue, or tweet
 
 ## Friday 2017-01-13
 
-- Bob Rudis, [@hrbrmstr](https://twitter.com/hrbrmstr),
+- [Bob Rudis](http://rud.is/a/), [@hrbrmstr](https://twitter.com/hrbrmstr),
 [Writing readable code with pipes](https://github.com/hrbrmstr/rstudioconf2017#readme)
 
 - Bhaskar Karambelkar, [@bhaskar_vk](https://twitter.com/bhaskar_vk),
