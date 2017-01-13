@@ -14,7 +14,8 @@ Pull requests welcome! Or add an issue, or tweet
 ## Friday 2017-01-13
 
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
-  [Database best practices: DBI, ODBC, and Pool](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)
+  [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
+\[[Source](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)\]
 
 - [Bob Rudis](http://rud.is/a/), [@hrbrmstr](https://twitter.com/hrbrmstr),
 [Writing readable code with pipes](https://github.com/hrbrmstr/rstudioconf2017#readme)
