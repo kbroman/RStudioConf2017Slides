@@ -52,4 +52,8 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 - [ggedit](https://github.com/metrumresearchgroup/ggedit) -
   interactively edit ggplot layer aesthetics and them definitions
 
-- [magick](https://github.com/ropensci/magick) - bindings to ImageMagick
+- [magick](https://github.com/ropensci/magick) - bindings to
+  ImageMagick
+
+- [easyMake](https://github.com/GShotwell/easyMake) - generate
+  Makefiles from an R dataframe of dependencies
