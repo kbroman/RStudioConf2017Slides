@@ -39,3 +39,5 @@ Pull requests welcome! Or add an issue, or tweet
 ### Things of interest
 
 - [bsplus](http://ijlyttle.github.io/bsplus/) - use BootstrapJS via R
+
+- [hunspell](https://github.com/ropensci/hunspell) - spell-checking package
