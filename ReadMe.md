@@ -51,3 +51,5 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [ggedit](https://github.com/metrumresearchgroup/ggedit) -
   interactively edit ggplot layer aesthetics and them definitions
+
+- [magick](https://github.com/ropensci/magick) - bindings to ImageMagick
