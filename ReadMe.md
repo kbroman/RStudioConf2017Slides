@@ -14,13 +14,9 @@ Also see
 
 ---
 
-## Friday 2017-01-13
+## Saturday 2017-01-14
 
-- [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
-  [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
-  
-- [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
-  [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
+## Friday 2017-01-13
 
 - [Charlotte Wickham](http://cwick.co.nz/), [@cvwickham](https://twitter.com/cvwickham),
   [Happy R Users Purrr](https://www.dropbox.com/sh/062xjv35izc2a92/AAAnC-nzToR1rPekDZipRJSLa?dl=0&preview=slides.pdf)
@@ -58,6 +54,15 @@ Also see
   [TrelliscopeJS](http://slides.com/hafen/deck-6#/)
 
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
+
+## Wednesday 2017-01-11 and Thursday 2017-01-12
+
+- [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
+  [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
+  
+- [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
+  [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
+
 
 ---
 
