@@ -57,3 +57,5 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [easyMake](https://github.com/GShotwell/easyMake) - generate
   Makefiles from an R dataframe of dependencies
+
+- [Tidy text mining with R](http://tidytextmining.com)
