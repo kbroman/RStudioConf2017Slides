@@ -27,6 +27,10 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 - [Winston Chang](https://github.com/wch), [@winston_chang](https://twitter.com/winston_chang),
   [Building dashboards with Shiny](https://github.com/jcheng5/dashtutorial)
 
+- Javier Luraschi,
+  [@javierluraschi](https://twitter.com/javierluraschi),
+  [R and Spark](https://beta.rstudioconnect.com/content/2371/r-and-spark.html#1)
+
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
 \[[Source](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)\]
