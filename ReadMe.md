@@ -19,6 +19,9 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
   [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
+  
+- [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
+  [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
 
 - [Charlotte Wickham](http://cwick.co.nz/), [@cvwickham](https://twitter.com/cvwickham),
   [Happy R Users Purrr](https://www.dropbox.com/sh/062xjv35izc2a92/AAAnC-nzToR1rPekDZipRJSLa?dl=0&preview=slides.pdf)
