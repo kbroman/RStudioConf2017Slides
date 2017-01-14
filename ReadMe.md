@@ -16,6 +16,9 @@ Also see
 
 ## Saturday 2017-01-14
 
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
+
 ## Friday 2017-01-13
 
 - [Charlotte Wickham](http://cwick.co.nz/), [@cvwickham](https://twitter.com/cvwickham),
