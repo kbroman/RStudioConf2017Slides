@@ -10,8 +10,7 @@ Pull requests welcome! Or add an issue, or tweet
 [Karl Broman](http://kbroman.org).
 
 Also see
-[Stephen Turner's list](https://github.com/stephenturner/rstudioconf_purrr_listcols)
-and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioconf2017.csv).
+[Stephen Turner's list](https://github.com/stephenturner/rstudioconf_purrr_listcols), [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioconf2017.csv) and [Sharon Machlis's tips and takeways](http://www.computerworld.com/article/3157004/data-analytics/best-tips-and-takeaways-from-rstudio-conference.html).
 
 ---
 
