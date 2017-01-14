@@ -86,3 +86,6 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
   scatterplots and globe plots
 
 - [Using Web APIs in R](https://github.com/ajmcoqui/webAPIsR)
+
+- [shinytest](https://github.com/rstudio/shinytest) - testing
+  framework for Shiny
