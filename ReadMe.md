@@ -17,6 +17,10 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 ## Friday 2017-01-13
 
+- [Charlotte Wickham](http://cwick.co.nz/), [@cvwickham](https://twitter.com/cvwickham),
+  [Happy R Users Purrr](https://www.dropbox.com/sh/062xjv35izc2a92/AAAnC-nzToR1rPekDZipRJSLa?dl=0&preview=slides.pdf)
+  \[[Source](https://www.dropbox.com/sh/062xjv35izc2a92/AAAnC-nzToR1rPekDZipRJSLa?dl=0)\]
+
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
 \[[Source](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)\]
