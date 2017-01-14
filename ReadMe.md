@@ -76,3 +76,6 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
   Makefiles from an R dataframe of dependencies
 
 - [Tidy text mining with R](http://tidytextmining.com)
+
+- [tic](https://github.com/ropenscilabs/tic) - facilitate deployment
+  of R packages
