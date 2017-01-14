@@ -41,6 +41,8 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 - [Jenny Bryan](https://www.stat.ubc.ca/~jenny/), [@jennybryan](https://twitter.com/jennybc),
   [Putting square pegs in round holes: Using list-cols in your dataframe](https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe)
 
+- [Julia Silge](http://juliasilge.com/), [@juliasilge](https://twitter.com/juliasilge), [Text mining, the tidy way](https://speakerdeck.com/juliasilge/text-mining-the-tidy-way)
+
 - [Bhaskar Karambelkar](http://www.karambelkar.info), [@bhaskar_vk](https://twitter.com/bhaskar_vk),
 [Web mapping in R using Leaflet](https://bhaskarvk.github.io/leaflet-talk-rstudioconf-2017/RstudioConf2017.html#1)
 
