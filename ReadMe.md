@@ -81,3 +81,6 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
   of R packages
 
 - [Jenny Bryan](https://www.stat.ubc.ca/~jenny/)'s [purrr examples and tutorial](https://jennybc.github.io/purrr-tutorial/)
+
+- [rthreejs](http://bwlewis.github.io/rthreejs/) - interactive 3d
+  scatterplots and globe plots
