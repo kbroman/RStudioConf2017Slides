@@ -84,3 +84,5 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [rthreejs](http://bwlewis.github.io/rthreejs/) - interactive 3d
   scatterplots and globe plots
+
+- [Using Web APIs in R](https://github.com/ajmcoqui/webAPIsR)
