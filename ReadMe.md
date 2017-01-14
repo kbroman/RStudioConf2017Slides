@@ -14,10 +14,14 @@ Also see
 
 ---
 
-## Saturday 2017-01-14
+## Wednesday 2017-01-11 and Thursday 2017-01-12
 
-- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
-  [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
+- [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
+  [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
+
+- [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
+  [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
+
 
 ## Friday 2017-01-13
 
@@ -58,14 +62,10 @@ Also see
 
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
 
-## Wednesday 2017-01-11 and Thursday 2017-01-12
+## Saturday 2017-01-14
 
-- [Joe Cheng](https://github.com/jcheng5), [@jcheng](https://twitter.com/jcheng),
-  [Intermediate Shiny Workshop](https://github.com/jcheng5/rstudio2017-shiny-workshop)
-
-- [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
-  [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
-
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
 
 ---
 
