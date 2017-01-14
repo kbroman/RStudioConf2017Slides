@@ -67,6 +67,9 @@ Also see
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
   [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
 
+- [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
+  [Opinionated analysis development](http://www.slideshare.net/hilaryparker/opinionated-analysis-development)
+
 ---
 
 ### Things of interest
