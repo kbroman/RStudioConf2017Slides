@@ -104,3 +104,6 @@ Also see
 
 - [shinytest](https://github.com/rstudio/shinytest) - testing
   framework for Shiny
+
+- [blogdown](https://github.com/rstudio/blogdown) - R package to
+  generate static websites, based on R Markdown and [Hugo](https://gohugo.io/)
