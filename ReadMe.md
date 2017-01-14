@@ -38,7 +38,7 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 - [Bob Rudis](http://rud.is/a/), [@hrbrmstr](https://twitter.com/hrbrmstr),
 [Writing readable code with pipes](https://github.com/hrbrmstr/rstudioconf2017#readme)
 
-- [Jenny Bryan](), [@jennybc](https://twitter.com/jennybc),
+- [Jenny Bryan](https://www.stat.ubc.ca/~jenny/), [@jennybryan](https://twitter.com/jennybc),
   [Putting square pegs in round holes: Using list-cols in your dataframe](https://speakerdeck.com/jennybc/putting-square-pegs-in-round-holes-using-list-cols-in-your-dataframe)
 
 - [Bhaskar Karambelkar](http://www.karambelkar.info), [@bhaskar_vk](https://twitter.com/bhaskar_vk),
@@ -79,3 +79,5 @@ and [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioc
 
 - [tic](https://github.com/ropenscilabs/tic) - facilitate deployment
   of R packages
+
+- [Jenny Bryan](https://www.stat.ubc.ca/~jenny/)'s [purrr examples and tutorial](https://jennybc.github.io/purrr-tutorial/)
