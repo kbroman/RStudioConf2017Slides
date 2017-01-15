@@ -84,7 +84,9 @@ Also see
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
   [Customizing & extending R Markdown](https://slides.yihui.name/2017-rstudio-conf-ext-rmd-Yihui-Xie.html#1)
 
-
+- [Dirk Eddelbuettel](http://dirk.eddelbuettel.com), [@eddelbuettel](https://twitter.com/eddelbuettel),
+  [Extending R with C++: A Brief Introduction to Rcpp](http://dirk.eddelbuettel.com/papers/rcpp_rstudio_conf_2017.pdf)
+  
 ---
 
 ### Things of interest
