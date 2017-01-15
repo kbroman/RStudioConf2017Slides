@@ -78,6 +78,13 @@ Also see
   [What's new with the IDE?](https://rawgit.com/kevinushey/2017-rstudio-conf/master/slides.html#1)
   \[[Source](https://github.com/kevinushey/2017-rstudio-conf)\]
 
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Making websites with R Markdown](https://slides.yihui.name/2017-rstudio-conf-blogdown-Yihui-Xie.html#1)
+
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Customizing & extending R Markdown](https://slides.yihui.name/2017-rstudio-conf-ext-rmd-Yihui-Xie.html#1)
+
+
 ---
 
 ### Things of interest
