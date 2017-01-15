@@ -35,6 +35,9 @@ Also see
 - Javier Luraschi,
   [@javierluraschi](https://twitter.com/javierluraschi),
   [R and Spark](https://beta.rstudioconnect.com/content/2371/r-and-spark.html#1)
+  
+- [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui),
+[Using Web APIs from R [Source]](https://github.com/ajmcoqui/webAPIsR)
 
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
