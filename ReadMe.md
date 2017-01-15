@@ -35,6 +35,8 @@ Also see
 - Javier Luraschi,
   [@javierluraschi](https://twitter.com/javierluraschi),
   [R and Spark](https://beta.rstudioconnect.com/content/2371/r-and-spark.html#1)
+  
+- [Bárbara Borges Ribeiro](http://www.barbara-borgesribeiro.com/),  [Dynamic Shiny Interfaces](https://docs.google.com/presentation/d/1wMxhVIWsFfkCZjEJ6VlfEZpMWmiA_umOavcuwGVIQcg/edit)[Source](https://github.com/bborgesr/rstudio-conf2017)
 
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
@@ -70,6 +72,9 @@ Also see
 
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
   [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
+  
+- [Jenny Bryan](https://www.stat.ubc.ca/~jenny/), [@jennybryan](https://twitter.com/jennybc),
+  [Happy Git and Gihub for the useR](http://happygitwithr.com/)
 
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
   [Opinionated analysis development](http://www.slideshare.net/hilaryparker/opinionated-analysis-development)
