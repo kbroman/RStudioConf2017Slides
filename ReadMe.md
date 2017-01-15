@@ -86,7 +86,7 @@ Also see
 
 - [Dirk Eddelbuettel](http://dirk.eddelbuettel.com), [@eddelbuettel](https://twitter.com/eddelbuettel),
   [Extending R with C++: A Brief Introduction to Rcpp](http://dirk.eddelbuettel.com/papers/rcpp_rstudio_conf_2017.pdf)
-  
+
 ---
 
 ### Things of interest
@@ -124,3 +124,6 @@ Also see
 
 - [blogdown](https://github.com/rstudio/blogdown) - R package to
   generate static websites, based on R Markdown and [Hugo](https://gohugo.io/)
+
+- [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight) -
+  R package with data from [fivethirtyeight.com](https://fivethirtyeight.com/)
