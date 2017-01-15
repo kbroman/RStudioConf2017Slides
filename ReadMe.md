@@ -62,6 +62,10 @@ Also see
 
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
 
+- [Simon Jackson](http://drsimonj.com),
+  [@drsimonj](https://twitter.com/drsimonj),
+  [Exploring correlations in a tidy R framework with corrr](https://github.com/drsimonj/corrr-rstudio-conf?files=1)
+
 ## Saturday 2017-01-14
 
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
