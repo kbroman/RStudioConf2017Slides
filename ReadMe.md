@@ -74,6 +74,10 @@ Also see
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
   [Opinionated analysis development](http://www.slideshare.net/hilaryparker/opinionated-analysis-development)
 
+- [Kevin Ushey](https://github.com/kevinushey), [@kevin_ushey](https://twitter.com/kevin_ushey),
+  [What's new with the IDE?](https://rawgit.com/kevinushey/2017-rstudio-conf/master/slides.html#1)
+  \[[Source](https://github.com/kevinushey/2017-rstudio-conf)\]
+
 ---
 
 ### Things of interest
