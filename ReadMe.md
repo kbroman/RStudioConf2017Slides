@@ -62,6 +62,10 @@ Also see
 
 - [Karthik Ram](http://inundata.org), [@_inundata](https://twitter.com/_inundata), [rOpenSci Packages Every Muggle Should Know](http://inundata.org/talks/rc17/#/)
 
+- [Simon Jackson](http://drsimonj.com),
+  [@drsimonj](https://twitter.com/drsimonj),
+  [Exploring correlations in a tidy R framework with corrr](https://github.com/drsimonj/corrr-rstudio-conf?files=1)
+
 ## Saturday 2017-01-14
 
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
@@ -70,9 +74,19 @@ Also see
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
   [Opinionated analysis development](http://www.slideshare.net/hilaryparker/opinionated-analysis-development)
 
+- [Kevin Ushey](https://github.com/kevinushey), [@kevin_ushey](https://twitter.com/kevin_ushey),
+  [What's new with the IDE?](https://rawgit.com/kevinushey/2017-rstudio-conf/master/slides.html#1)
+  \[[Source](https://github.com/kevinushey/2017-rstudio-conf)\]
+
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Making websites with R Markdown](https://slides.yihui.name/2017-rstudio-conf-blogdown-Yihui-Xie.html#1)
+
+- [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
+  [Customizing & extending R Markdown](https://slides.yihui.name/2017-rstudio-conf-ext-rmd-Yihui-Xie.html#1)
+
 - [Dirk Eddelbuettel](http://dirk.eddelbuettel.com), [@eddelbuettel](https://twitter.com/eddelbuettel),
   [Extending R with C++: A Brief Introduction to Rcpp](http://dirk.eddelbuettel.com/papers/rcpp_rstudio_conf_2017.pdf)
-
+  
 ---
 
 ### Things of interest
