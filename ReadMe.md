@@ -38,6 +38,9 @@ Also see
   
 - [Bárbara Borges Ribeiro](http://www.barbara-borgesribeiro.com/),  [Dynamic Shiny Interfaces](https://docs.google.com/presentation/d/1wMxhVIWsFfkCZjEJ6VlfEZpMWmiA_umOavcuwGVIQcg/edit)[Source](https://github.com/bborgesr/rstudio-conf2017)
 
+- [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui),
+[Using Web APIs from R [Source]](https://github.com/ajmcoqui/webAPIsR)
+
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
 \[[Source](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)\]
