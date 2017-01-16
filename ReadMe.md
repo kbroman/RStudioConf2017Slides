@@ -132,3 +132,5 @@ Also see
 
 - [blogdown](https://github.com/rstudio/blogdown) - R package to
   generate static websites, based on R Markdown and [Hugo](https://gohugo.io/)
+  
+- [Talking about Shiny with Barbara Borges and Dean Attali](https://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html) from the [R-Podcast](https://www.r-podcast.org/)
