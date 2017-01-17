@@ -21,7 +21,8 @@ Also see
 
 - [Garrett Grolemund](https://github.com/garrettgman), [@StatGarrett](https://twitter.com/statgarrett),
   [Master the Tidyverse Workshop](https://github.com/garrettgman/MasterTheTidyverse)
-
+  
+- [Hadley Wickham](https://github/com/hadley), [@hadleywickham](https://twitter.com/hadleywickham), Advanced R Workshop [day 1](http://bit.ly/advr-1), [day 2](http://bit.ly/advr-2)
 
 ## Friday 2017-01-13
 
