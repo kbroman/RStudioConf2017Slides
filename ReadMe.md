@@ -36,6 +36,11 @@ Also see
   [@javierluraschi](https://twitter.com/javierluraschi),
   [R and Spark](https://beta.rstudioconnect.com/content/2371/r-and-spark.html#1)
 
+- [Bárbara Borges Ribeiro](http://www.barbara-borgesribeiro.com/),  [Dynamic Shiny Interfaces](https://docs.google.com/presentation/d/1wMxhVIWsFfkCZjEJ6VlfEZpMWmiA_umOavcuwGVIQcg/edit)[Source](https://github.com/bborgesr/rstudio-conf2017)
+
+- [Amanda Gadrow](https://github.com/ajmcoqui), [@ajmcoqui](https://twitter.com/ajmcoqui),
+[Using Web APIs from R [Source]](https://github.com/ajmcoqui/webAPIsR)
+
 - [Jim Hester](http://jimhester.com), [@jimhester_](https://twitter.com/jimhester_),
   [Database best practices: DBI, ODBC, and Pool](https://rawgit.com/jimhester/presentations/master/2017_01_13-RStudio_conf-Database_Best_Practices/2017_01_13-RStudio_conf-Database_Best_Practices.html#/)
 \[[Source](https://github.com/jimhester/presentations/tree/master/2017_01_13-RStudio_conf-Database_Best_Practices)\]
@@ -70,6 +75,9 @@ Also see
 
 - [Yihui Xie](https://github.com/yihui), [@xieyihui](https://twitter.com/xieyihui),
   [Advanced R Markdown](https://slides.yihui.name/2017-rstudio-conf-rmarkdown-Yihui-Xie.html#1)
+
+- [Jenny Bryan](https://www.stat.ubc.ca/~jenny/), [@jennybryan](https://twitter.com/jennybc),
+  [Happy Git and Gihub for the useR](http://happygitwithr.com/)
 
 - [Hilary Parker](https://hilaryparker.com), [@hspter](https://twitter.com/hspter),
   [Opinionated analysis development](http://www.slideshare.net/hilaryparker/opinionated-analysis-development)
@@ -127,3 +135,5 @@ Also see
 
 - [fivethirtyeight](https://github.com/rudeboybert/fivethirtyeight) -
   R package with data from [fivethirtyeight.com](https://fivethirtyeight.com/)
+
+- [Interviews with Barbara Borges and Dean Attali about Shiny](https://www.r-podcast.org/posts/the-r-podcast-episode-19-talking-shiny-at-rstudio-conf-with-barbara-borges-and-dean-attali.html) from the [R-Podcast](https://www.r-podcast.org/)
