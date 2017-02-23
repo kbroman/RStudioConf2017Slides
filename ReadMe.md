@@ -9,6 +9,8 @@ Pull requests welcome! Or add an issue, or tweet
 [@kwbroman](https://twitter.com/kwbroman) or email
 [Karl Broman](http://kbroman.org).
 
+[Videos](https://blog.rstudio.org/2017/02/15/rstudioconf-2017-session-recordings-are-now-available/) now available!
+
 Also see
 [Stephen Turner's list](https://github.com/stephenturner/rstudioconf_purrr_listcols), [RWeekly's list](https://github.com/rweekly/conferences/blob/master/rstudioconf2017.csv), and [Sharon Machlis's tips and takeways](http://www.computerworld.com/article/3157004/data-analytics/best-tips-and-takeaways-from-rstudio-conference.html).
 
