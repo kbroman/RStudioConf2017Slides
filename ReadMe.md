@@ -5,8 +5,7 @@ Links to slides to talks at the 2017
 
 Schedule: <https://www.rstudio.com/conference/#speakers>
 
-Pull requests welcome! Or add an issue, or tweet
-[@kwbroman](https://twitter.com/kwbroman) or email
+Pull requests welcome! Or add an issue or email
 [Karl Broman](http://kbroman.org).
 
 [Videos](https://blog.rstudio.org/2017/02/15/rstudioconf-2017-session-recordings-are-now-available/) now available!
